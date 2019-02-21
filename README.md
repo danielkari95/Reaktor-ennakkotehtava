@@ -1,4 +1,7 @@
-# Reaktor-ennakkotehtava
-Reaktorin ennakkotehtävä kesälle 2019 koneoppimisen osaajille
+![alt text](https://www.reaktor.com/wp-content/uploads/2017/11/default-share-image.png)
 
-Päästö- ja BKT-datan lataamisessa hyödynsin Pythonin valmista rajapintaa Maailmanpankin datan lukemiseen. 
+# Ennakkotehtävä kesälle 2019 koneoppimisen osaajille
+
+Kohdan 3 interaktiivinen visualisointi löytyy [täältä](https://paastot-vs-bkt.herokuapp.com/).
+
+
